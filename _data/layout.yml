@@ -1,0 +1,21 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "cuteskull.svg"
+hero: "purps.jpg"
+avatar: "mavitar.jpg"
+
+# Colors
+
+accent: "#ac6aba"
+accent-light: "#d5b4dc"
+bgcolor: "#e5eaee"
+
+documentBackgroundColor: "#fff"
+headlineColor: "#333"
+textColor: "#666"
+linkColor: "#832097"
+selectionColor: "#ffff9e"

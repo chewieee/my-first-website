@@ -1,0 +1,1 @@
+A work in progress. Baby steps, trying to get this blog integrated in there. 
