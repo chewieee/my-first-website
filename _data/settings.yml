@@ -39,9 +39,9 @@ skills:
 - {name: Learning, value: '10'}
 - {name: Teaching, value: '6'}
 - {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '6'}
-- {name: Programming, value: '6'}
+- {name: Visual Design, value: '7'}
+- {name: Hacking, value: '6'}
+- {name: Programming, value: '5'}
 
 #-------------------------------
 # Work Section
