@@ -8,18 +8,13 @@ Hello Octopress! I just configured you and got you all worked out, just putting 
 
 I'll hi-jack my first tumblr post and put it here for a little trip down memory lane, then periodically import the rest of them to octopress so I won't need to go back to tumblr. Sound good? Good! Excited to see what I can do with this thing.
 
-<!-- more -->
+UPDATE: 12-22-14
 
-Hello tumbla! Nice to finally make your acquaintance after what seems like years of avoiding you. It’s not that I was never curious, I just didn’t have the time/motivation to learn about you and see what makes you tick. There’s so much social media out there I just can’t keep up.
+I'm just all blog confused. I've now opted to go with just jekyll as my blogging platform. It's not as convenient as Octopress, but it allows me to insert the posts cleanly into my static jekyll website. I'm sure there's a way to happily combine the two since one is a framework built on the other so there's probably something I'm not getting. Not probably, most likely. Ha.
 
-Alas, here I am on my very own tumblr blogging away. This is actually a blog for me to catalog my journey into the world of web development. I was recently accepted into The Viking Coding School as one of the first cohort students!
+There's still work to be done on implementation but I've gotten the site to a presentable state. Phew. Not very UX friendly at all, as the blog has no links to lead you back to the static pages. Easy fix, should be coming soon. To do's also include incorporating some of the plug-ins and learning more markdown to implement syntax highlighting for code and blockquotes for....blockquotes! Pagination, imagination, more creation, static-elation, then...profit!
 
-After several months of preparation for applications to in-person bootcamps, I stumbled upon The Odin Project. Boy was I excited to find a one-stop-shop for all the free resources and links I would need to help me prepare for these coding challenges (shameless plugs, points Erik??).
 
-About two weeks into The Odin Project, I got an e-mail advertising the opening of the VCS and encouragement to apply. Two very crunchy weeks, almost no sleep, a resignation, and a partridge in a….well no, but fast forward to the acceptance e-mail. And we’re off!
 
-I have to admit, I settled for your tumblr. In my ambitious “I already know enough coding!” state, I tried building a blog from scratch and customizing it with a wordpress template with less than stellar results. I then attempted to run a wordpress the legitimate way and decided I wasn’t really into the format. I thought I’d have a blog up and running for the start of the program but I gracefully stumbled and tripped across that deadline.
 
-I really do intend to update frequently so that I know where I started and how far I’ve gotten. As a test for myself, I’d like to be able to look back on this post when I’m importing the entries into my very own CUSTOM built blog and reflect a bit. I’ll keep this very intro-like since it is the inaugural post and all, but soon I’ll throw in a few retro posts to detail what has happened so far with VCS.
 
-As the late great Mills Lane from MTV’s Celebrity Deathmatch would say — lets get it on!

@@ -3,3 +3,39 @@ layout: post
 title: "So SASS-y"
 date: 2014-12-13 12:23:28 -0800
 ---
+
+I've worked with SASS before, but only in Sublime Text and only with preprocessing. This allowed for the SASS to be typed as CSS but with all of the SASS-y goodness such as nesting, variables, and mix-ins. I've gotten pretty comfortable with CSS so using the brackets and semi-colons after lines came naturally. Hello CSS:
+
+
+{% highlight css linenos %}
+body {
+  font: sexy;
+  font-size: slim;
+  color: tan;
+
+  p {
+    margin: 0 0 0 10px;
+  }
+}
+{% endhighlight %}
+
+Then I started using SASS to modify the template for my website. Hello true SASS with no brackets or semi-colons. I guess it's a little easier on the eyes when viewing lots of styles, but I found myself lost at first. Some styles just weren't working, and I couldn't seem to figure out the indentation for nestings. The above example, now SASS-ier:
+
+
+{% highlight sass linenos %}
+body
+  font: sexier
+  font-size: slimmer
+  color: tanner
+
+  p 
+    margin: 0 0 0 10px
+{% endhighlight %}
+
+After a bit of trial and error I realized that it wasn't that I was getting the selectors or styles wrong, it was mostly the nesting. Without the right spacing, that p selector could easily slip out of the scope of the parent body selector, which would not allow it to inherit the body styles as well and kind of negate some of the benefits of using SASS for your CSS. 
+
+Lesson learned: Respect nesting and spacing. Go for spaces, not tabs. SASS is strict but pays you back for adhering. 
+
+
+
+
