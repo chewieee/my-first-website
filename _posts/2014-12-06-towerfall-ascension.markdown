@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Towerfall Ascension - Old School Graphics, New School Fun"
-date: 2014-12-23 02:06:28 -0800
+date: 2014-12-06 02:06:28 -0800
 ---
 
 I've been putting my PSN+ membership to good use by grabbing all of the monthly free PS4 games offered by the service. The most recent gem to come down the pipeline is called Towerfall Ascension, and I have to say I definitely got more than my money's worth -- see what I did there?
