@@ -1,1 +1,1 @@
-A work in progress. Baby steps, trying to get this blog integrated in there. 
+My old site previously hosted on github. Cloned to make room for update. Hacked together a liquid template and roughly integrated a blog.  
